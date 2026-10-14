@@ -1,0 +1,92 @@
+[
+    {
+        "id": "inq_1789034278841",
+        "userId": "guest_1789034278841",
+        "userName": "Senuri",
+        "userEmail": "senuricarron3@gmail.com",
+        "userRole": "guest",
+        "isGuest": true,
+        "district": "Public Web \/ Guest",
+        "phone": "N\/A",
+        "subject": "General Public Inquiry",
+        "status": "open",
+        "lastMessage": "Test Inquiry",
+        "lastMessageTime": "2026-09-10T09:58:04+00:00",
+        "unreadByAdmin": true,
+        "unreadByUser": false,
+        "createdAt": "2026-09-10T09:58:04+00:00",
+        "messages": [
+            {
+                "id": "msg_6aa27f2ccc24b",
+                "inquiryId": "inq_1789034278841",
+                "senderId": "guest_1789034278841",
+                "senderEmail": "senuricarron3@gmail.com",
+                "senderName": "Senuri",
+                "senderRole": "guest",
+                "message": "Test Inquiry",
+                "timestamp": "2026-09-10T09:58:04+00:00",
+                "read": false
+            }
+        ]
+    },
+    {
+        "id": "inq_1789034278847",
+        "userId": "guest_1789034278847",
+        "userName": "Senuri",
+        "userEmail": "senuricarron3@gmail.com",
+        "userRole": "guest",
+        "isGuest": true,
+        "district": "Public Web \/ Guest",
+        "phone": "N\/A",
+        "subject": "General Public Inquiry",
+        "status": "open",
+        "lastMessage": "Test Inquiry",
+        "lastMessageTime": "2026-09-10T09:58:02+00:00",
+        "unreadByAdmin": true,
+        "unreadByUser": false,
+        "createdAt": "2026-09-10T09:58:02+00:00",
+        "messages": [
+            {
+                "id": "msg_6aa27f2ad7e46",
+                "inquiryId": "inq_1789034278847",
+                "senderId": "guest_1789034278847",
+                "senderEmail": "senuricarron3@gmail.com",
+                "senderName": "Senuri",
+                "senderRole": "guest",
+                "message": "Test Inquiry",
+                "timestamp": "2026-09-10T09:58:02+00:00",
+                "read": false
+            }
+        ]
+    },
+    {
+        "id": "guest_inq_1",
+        "userId": "guest_1710000000",
+        "userName": "Senuri",
+        "userEmail": "senuricarron.3@gmail.com",
+        "userRole": "guest",
+        "isGuest": true,
+        "district": "Public Web \/ Guest",
+        "phone": "N\/A",
+        "subject": "General Public Inquiry",
+        "status": "open",
+        "lastMessage": "test inquiry",
+        "lastMessageTime": "2026-09-10T09:56:38+00:00",
+        "unreadByAdmin": true,
+        "unreadByUser": false,
+        "createdAt": "2026-09-10T09:56:38+00:00",
+        "messages": [
+            {
+                "id": "msg_1",
+                "inquiryId": "guest_inq_1",
+                "senderId": "guest_1710000000",
+                "senderEmail": "senuricarron.3@gmail.com",
+                "senderName": "Senuri",
+                "senderRole": "guest",
+                "message": "test inquiry",
+                "timestamp": "2026-09-10T09:56:38+00:00",
+                "read": false
+            }
+        ]
+    }
+]
